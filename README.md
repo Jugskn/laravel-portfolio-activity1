@@ -55,7 +55,7 @@ php artisan serve
 - Working with Git and GitHub
 
 ## Screenshots
-
+#
 ### Intro
 ![Intro](screenshots/sc1.jpg)
 
