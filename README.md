@@ -55,21 +55,21 @@ php artisan serve
 - Working with Git and GitHub
 
 ## Screenshots
-#
+
 ### Intro
-![Intro](screenshots/sc1.jpg)
+![Intro](public/screenshots/sc1.jpg)
 
 ### Home Page
-![Home Page](screenshots/home.jpg)
+![Home Page](public/screenshots/home.jpg)
 
 ### About Page
-![About Page](screenshots/about.jpg)
+![About Page](public/screenshots/about.jpg)
 
 ### Projects Page
-![Projects Page](screenshots/projects.jpg)
+![Projects Page](public/screenshots/projects.jpg)
 
 ### Contact Page
-![Contact Page](screenshots/contact.jpg)
+![Contact Page](public/screenshots/contact.jpg)
 
 ## License
 This project was created for educational purposes.
