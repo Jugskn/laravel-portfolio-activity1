@@ -57,19 +57,19 @@ php artisan serve
 ## Screenshots
 
 ### Intro
-![Intro](screenshots/sc1.png)
+![Intro](screenshots/sc1.jpg)
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/home.jpg)
 
 ### About Page
-![About Page](screenshots/about.png)
+![About Page](screenshots/about.jpg)
 
 ### Projects Page
-![Projects Page](screenshots/projects.png)
+![Projects Page](screenshots/projects.jpg)
 
 ### Contact Page
-![Contact Page](screenshots/contact.png)
+![Contact Page](screenshots/contact.jpg)
 
 ## License
 This project was created for educational purposes.
